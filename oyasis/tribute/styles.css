@@ -1,0 +1,60 @@
+body {
+    background:linear-gradient(grey,white);
+    padding: 20px;
+    margin: 10%;
+}
+
+#tribute {
+    background-color:white;
+    box-shadow: 20px 20px 20px black;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+.first {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%; 
+    border-radius: 10px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 80px;
+    border: none;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 40px;
+    border: none;
+    padding: 0%;
+    margin: 0%;
+    text-decoration:underline;
+}
+
+#text {
+    color: darkblue;
+    text-align: left;
+    font-size: 20px;
+    position: relative;
+}
+
+#marriage {
+    border: 1px solid black;
+    text-align: right;
+    max-width: 350px;
+    float:right;
+    border-radius: 10px;
+    display: inline-block;
+}
+table
+{
+text-align:center;
+width:80%
+}
